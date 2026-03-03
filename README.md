@@ -101,7 +101,6 @@ The system was implemented using MySQL 8.3 Command Line Client.
 ## 📐 ERD (Entity Relationship Diagram)
 
 ![ERD](docs/Chen_.png)
-![ERD](docs/Crow's foot_ERD.png)
 
 ---
 
